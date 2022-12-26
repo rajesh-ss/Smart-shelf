@@ -8,7 +8,7 @@
 <body>
 <h1>Circuit Diagram</h1>
 ![](circuit-diagram.png)
-    <h2>Tools used</h2>
+<h2>Tools used</h2>
 <ul>
     <li><b>Boards and Hardware: </b><ol><li>Wiznet board</li>
         <li>Ultrasonic sensor</li>
