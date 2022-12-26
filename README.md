@@ -8,7 +8,6 @@
 <body>
 <h1>Circuit Diagram</h1>
     <img src = "https://github.com/rajesh-ss/Smart-shelf/blob/main/circuit-diagram.png"/>
-![](circuit-diagram.png)
 <h2>Tools used</h2>
 <ul>
     <li><b>Boards and Hardware: </b><ol><li>Wiznet board</li>
