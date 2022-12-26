@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>Circuit Diagram</h1>
-![](circuit-diagram.png)
+    ![](circuit-diagram.png)
 <h2>Tools used</h2>
 <ul>
     <li><b>Boards and Hardware: </b>
