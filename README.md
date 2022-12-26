@@ -11,10 +11,10 @@
 ![](circuit-diagram.png)
     <h2>Tools used</h2>
 <ul>
-    <li><b>Boards and Hardware: </b><li>Wiznet board</li>
-    <li>Ultrasonic sensor</li>
-    <li>Jumper wires</li>
-    <li>Bread board</li></li>
+    <li><b>Boards and Hardware: </b><ol><li>Wiznet board</li>
+        <li>Ultrasonic sensor</li>
+        <li>Jumper wires</li>
+        <li>Bread board</li></li></ol>
     <li><b>Frontend: </b>html, css, javascript</li>
     <li><b>Platform: </b>ThingSpeak</li>
 </ul>
