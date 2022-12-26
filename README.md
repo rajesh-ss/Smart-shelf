@@ -7,6 +7,7 @@
 </head>
 <body>
 <h1>Circuit Diagram</h1>
+    
 ![](circuit-diagram.png)
     
 </body>
