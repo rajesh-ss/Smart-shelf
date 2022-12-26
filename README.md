@@ -18,11 +18,12 @@
     <li><b>Frontend: </b>html, css, javascript</li>
     <li><b>Platform: </b>ThingSpeak</li>
 </ul>
-<h1>Screenshot</h1>![](thinkspeak.png)
-![](working1.png)
-![](working2.png)
-![](working3.png)
-![](working4.png)
+<h1>Screenshot</h1>
+    ![](thinkspeak.png)
+    ![](working1.png)
+    ![](working2.png)
+    ![](working3.png)
+    ![](working4.png)
 </body>
 </html>
 
